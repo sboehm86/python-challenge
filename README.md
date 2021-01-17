@@ -1,4 +1,5 @@
-# python-challenge
+# Starting Python
+##
 
 #Homework for week three. I started taking notes and this helped but I have stepped it for week 4 which has allowed me to complete class excercises 
 for the most part since I have a reference for the different functions.
